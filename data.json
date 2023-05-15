@@ -1,0 +1,49 @@
+[
+    {
+        "services": [
+          {
+            "id": 1,
+            "name": "Web Development",
+            "description": "We offer custom web development services tailored to your business needs.",
+            "price": 1000,
+            "duration": "2 weeks"
+          },
+          {
+            "id": 2,
+            "name": "Graphic Design",
+            "description": "Our graphic design services help you create stunning visuals for your brand.",
+            "price": 500,
+            "duration": "1 week"
+          },
+          {
+            "id": 3,
+            "name": "Content Writing",
+            "description": "We provide high-quality content writing services for websites, blogs, and marketing materials.",
+            "price": 200,
+            "duration": "3 days"
+          },
+          {
+            "id": 4,
+            "name": "Social Media Management",
+            "description": "Our social media management services help you grow your online presence and engage with your audience.",
+            "price": 300,
+            "duration": "1 month"
+          },
+          {
+            "id": 5,
+            "name": "SEO Consulting",
+            "description": "We offer SEO consulting services to improve your website's visibility and rankings on search engines.",
+            "price": 800,
+            "duration": "1 month"
+          },
+          {
+            "id": 6,
+            "name": "Mobile App Development",
+            "description": "We specialize in mobile app development for iOS and Android platforms.",
+            "price": 1500,
+            "duration": "4 weeks"
+          }
+        ]
+      }
+      
+]
